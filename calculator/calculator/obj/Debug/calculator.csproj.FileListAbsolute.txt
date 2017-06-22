@@ -1,0 +1,9 @@
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\samue\Documents\freshKSU\semester 2\CIS 200\C#\Proj9\calculator\calculator\obj\Debug\calculator.pdb
